@@ -1,0 +1,2 @@
+# Newrelic-syntheics-script
+test
