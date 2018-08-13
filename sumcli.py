@@ -18,7 +18,7 @@ from summanage.alerts_commands import AlertsCommands
               required=True,
               envvar='KEY',
               help='New Relic key',
-              default='e19f3d2a0560817b897a8e74670fe5c1')
+              default='e7d13b66d49c4f1be6209feaa96e70ef')
 @click.option('--monitor-name', envvar='MONITORNAME', help='Name of SUM monitor to be managed')
 @click.option('--monitor-settings', envvar='MONITORSETTINGS', help='Settings file for SUM monitor')
 @click.option('--script-file', envvar='SCRIPTFILE', help='File containing SUM script')
