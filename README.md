@@ -1,2 +1,4 @@
 # Newrelic-syntheics-script
-test
+
+Require New Relic key
+
